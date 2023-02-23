@@ -1,0 +1,8 @@
+3- 
+-n result -s infile.txt -c 25 -i 10 -p 12345 -V -m PROTCATDAYHOFF -f a -N 100 -x 12345 --asc-corr lewis
+4-
+Flying fox is Pteropus and the most similar species are Dobsonia viridis and Epomorphous wahlbergi
+5-
+ACE2 is an important protein since SARS-CoV viruses utelize it to penetarate their host.
+Knowing the evolution and similarities between the ACE2 protein within families of bats can help us understand the evolution of viruses as the coevolve. 
+It can eventually help with vaccine and drug development as well.
